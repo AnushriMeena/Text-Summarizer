@@ -8,9 +8,6 @@ A simple and elegant web app to summarize text using OpenAI's GPT-4o model. Past
 - Uses OpenAI GPT-4o for high-quality summaries
 - Bullet-point output for clarity
 
-## Demo
-![Screenshot](screenshot.png) <!-- Add a screenshot if available -->
-
 ## Getting Started
 
 ### Prerequisites
@@ -52,7 +49,4 @@ You can deploy this app on [Streamlit Cloud](https://streamlit.io/cloud) or any 
 
 ## License
 [MIT](LICENSE)
-
-## Acknowledgments
-- [OpenAI](https://openai.com/)
-- [Streamlit](https://streamlit.io/) 
+ 
